@@ -16,8 +16,8 @@
 
 ## ❓ Sobre
 
-Projeto criado para um trabalho em grupo de desenvolvimento de uma página web para a disciplina de Laboratório de Programação III do Curso Técnico em Informática Integrado ao Ensino Médio do IFTM, o qual foi realizado no ano de 2022. A página em questão é sobre uma loja de açaí fictícia, em que eu estive responsável principalmente pelo FrontEnd. <br><b>Atenção:</b> Todas as informações inseridas no layout referentes à existência da loja são fictícias.<br>
-<b>Obs:</b> Esta página não é responsiva. Este foi um dos meus primeiros trabalhos FrontEnd, o qual eu fiz com o objetivo de aprender a utilizar as tecnologias.<br><br>
+Projeto criado para um trabalho de desenvolvimento de uma página web para a disciplina de Laboratório de Programação de Web Sites do Curso Engenharia De Software da Universidade De Vassouras, o qual foi realizado no ano de 2024. A página em questão é sobre uma loja de açaí fictícia. <br><b>Atenção:</b> Todas as informações inseridas no layout referentes à existência da loja são fictícias.<br>
+
 
 ---
 
@@ -32,6 +32,6 @@ O projeto foi desenvolvido com as seguintes tecnologias:
 ---
 ## 💻 Projeto
 
-- [Visite o projeto online](https://nathaliabeatriz.github.io/loja-de-acai/)
+- [Visite o projeto online](https://pedroasp0303.github.io/)
 
 ---
