@@ -2,17 +2,7 @@
 
 <p align="center">Página web de uma loja de açaí fictícia<br/></p>
 
-<p align="center">
-  <a href="#-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
 
-<p align="center">
-  <img alt="imagem do projeto" src=".github/preview.png" width="100%">
-</p>
-
-<br>
 
 ## ❓ Sobre
 
