@@ -22,6 +22,6 @@ O projeto foi desenvolvido com as seguintes tecnologias:
 ---
 ## 💻 Projeto
 
-- [Visite o projeto online](https://pedroasp0303.github.io/)
+- [Visite o projeto online](https://pedroaugst0.github.io/acai_store/)
 
 ---
